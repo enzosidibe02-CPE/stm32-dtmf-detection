@@ -136,10 +136,6 @@ Not documented yet. A photo of the Nucleo + BoostXL-Audio setup and a captured U
 - Measure FFT time with the DWT cycle counter and log it.
 - Move the passcode and feedback to a non-blocking state machine.
 
-## Preparation note
-
-The firmware (`firmware/`) is the author's own coursework. The host-side model, tests, figures and this README were produced during portfolio preparation with AI assistance (Claude).
-
 ## License
 
 MIT for the original code in `firmware/Core/Src/main.c`, `tools/`, `tests/`. STM32Cube-generated files carry STMicroelectronics' own license headers.
